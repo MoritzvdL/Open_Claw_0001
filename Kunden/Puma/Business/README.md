@@ -1,7 +1,10 @@
-# Business – Initiativen (Puma)
+# Business – Initiativen (Puma) – 2025
 
-Hier liegen die Top-Initiativen im Business-Bereich.
+## Top-Initiativen (Kalenderjahr 2025, offizielle Quellen)
+1. **nextlevel Effizienzprogramm** (Kostenoptimierung & operative Verbesserungen; Ziel EBIT-Marge 8,5% bis 2027)
+2. **Strategic reset / Distribution clean-up** (Reduktion unerwünschter Wholesale-Geschäfte, Inventory takebacks, weniger Promotions im DTC)
+3. **ESG: 10FOR25 / Vision 2030** (Sustainability Targets als strategisches Rahmenwerk)
 
-## Format
-- Eine Initiative pro Datei: `YYYY-MM-DD__kurztitel.md`
-- Inhalt: Kontext, Zielbild, Status, Stakeholder, nächste Schritte, Quellen/Links.
+## Ablage
+- `Initiativen_2025/` enthält pro Initiative eine Datei.
+

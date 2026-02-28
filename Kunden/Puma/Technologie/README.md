@@ -1,7 +1,9 @@
-# Technologie – Initiativen (Puma)
+# Technologie – Initiativen (Puma) – 2025
 
-Hier liegen die Top-Initiativen im Technologie-Bereich.
+## Top-Initiativen / Schwerpunkte (Kalenderjahr 2025, aus offiziellen Statements abgeleitet)
+1. **nextlevel – Operational Improvements (inkl. IT/Logistik/Sourcing als Effizienzhebel)**
+2. **Digital & DTC Enablement** (Investitionen in digitale Infrastruktur, Support von E-Commerce/DTC)
 
-## Format
-- Eine Initiative pro Datei: `YYYY-MM-DD__kurztitel.md`
-- Inhalt: Kontext, Zielbild, Status, Tech-Stack (falls bekannt), nächste Schritte, Quellen/Links.
+## Ablage
+- `Initiativen_2025/` enthält pro Initiative eine Datei.
+
